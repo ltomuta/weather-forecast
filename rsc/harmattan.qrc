@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="AboutPage.qml">../qml/harmattan/AboutPage.qml</file>
+        <file alias="ForecastHeader.qml">../qml/harmattan/ForecastHeader.qml</file>
+        <file alias="ForecastPage.qml">../qml/harmattan/ForecastPage.qml</file>
+        <file alias="HeaderLabel.qml">../qml/harmattan/HeaderLabel.qml</file>
+        <file alias="ListItem.qml">../qml/harmattan/ListItem.qml</file>
+        <file alias="main.qml">../qml/harmattan/main.qml</file>
+        <file alias="MainPage.qml">../qml/harmattan/MainPage.qml</file>
+        <file alias="SelectionListItem.qml">../qml/harmattan/SelectionListItem.qml</file>
+        <file alias="SettingsPage.qml">../qml/harmattan/SettingsPage.qml</file>
+        <file alias="UIConstants.js">../qml/harmattan/UIConstants.js</file>
+    </qresource>
+</RCC>

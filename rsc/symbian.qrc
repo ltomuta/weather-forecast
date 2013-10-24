@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="AboutPage.qml">../qml/symbian/AboutPage.qml</file>
+        <file alias="ForecastHeader.qml">../qml/symbian/ForecastHeader.qml</file>
+        <file alias="ForecastPage.qml">../qml/symbian/ForecastPage.qml</file>
+        <file alias="HeaderLabel.qml">../qml/symbian/HeaderLabel.qml</file>
+        <file alias="IAATermsPage.qml">../qml/symbian/IAATermsPage.qml</file>
+        <file alias="main.qml">../qml/symbian/main.qml</file>
+        <file alias="MainPage.qml">../qml/symbian/MainPage.qml</file>
+        <file alias="SettingsPage.qml">../qml/symbian/SettingsPage.qml</file>
+        <file alias="UIConstants.js">../qml/symbian/UIConstants.js</file>        
+    </qresource>
+</RCC>
