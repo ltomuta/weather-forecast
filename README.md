@@ -19,6 +19,8 @@ For more information on implementation and porting, visit the wiki pages:
 The Weather Forecast Sample for Windows Phone can be found from Microsoft's
 MSDN Library at http://msdn.microsoft.com/en-us/library/ff431744.aspx
 
+<img src="https://raw.github.com/nokia-developer/weather-forecast/master/doc/wf-qt-splash-screen.png" width="200px" /> 
+
 
 1. Usage
 -------------------------------------------------------------------------------
@@ -41,32 +43,32 @@ data is retrieved from the online weather service.
 2.1 Folders
 -----------
 
- |                  The root folder contains the project file, resource files,
- |                  the license information, and this file (release notes).
- |
- |-data             Application-specific data,  e.g. XML data for test mode.
- |
- |- doc             Documentation.
- |
- |- gfx             Contains application graphics.
- |
- |- icons           Contains application icons.
- |
- |- loc             Contains the localisation files.
- |
- |- qml             Root folder for QML and Javascript files.
- |  |
- |  |- common       Common, cross-platform QML and Javascript files.
- |  |
- |  |- harmattan    Harmattan-specific QML and Javascript files.
- |  |
- |  |- symbian      Symbian-specific QML and Javascript files.
- |
- |- qtc_packaging   Contains the Harmattan (Debian) packaging files.
- |
- |- rsc             Contains the resource files.
- |
- |- src             Contains the Qt/C++ source code files.
+ <br />|                  The root folder contains the project file, resource files,
+ <br />|                  the license information, and this file (release notes).
+ <br />|
+ <br />|-data             Application-specific data,  e.g. XML data for test mode.
+ <br />|
+ <br />|- doc             Documentation.
+ <br />|
+ <br />|- gfx             Contains application graphics.
+ <br />|
+ <br />|- icons           Contains application icons.
+ <br />|
+ <br />|- loc             Contains the localisation files.
+ <br />|
+ <br />|- qml             Root folder for QML and Javascript files.
+ <br />|  |
+ <br />|  |- common       Common, cross-platform QML and Javascript files.
+ <br />|  |
+ <br />|  |- harmattan    Harmattan-specific QML and Javascript files.
+ <br />|  |
+ <br />|  |- symbian      Symbian-specific QML and Javascript files.
+ <br />|
+ <br />|- qtc_packaging   Contains the Harmattan (Debian) packaging files.
+ <br />|
+ <br />|- rsc             Contains the resource files.
+ <br />|
+ <br />|- src             Contains the Qt/C++ source code files.
 
 
 2.2 Important Qt Quick Components
@@ -167,7 +169,7 @@ application menu and launch the application by tapping the icon.
 
 See the license text file delivered with this project. The license file is also
 available online at
-http://projects.developer.nokia.com/weatherforecast/browser/trunk/Licence.txt
+https://github.com/nokia-developer/weather-forecast/blob/master/Licence.txt
 
 
 6. Related documentation
