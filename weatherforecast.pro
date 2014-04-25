@@ -1,4 +1,4 @@
-# Copyright (c) 2011 Nokia Corporation.
+# Copyright (c) 2011-2014 Microsoft Mobile.
 
 QT += network declarative xml
 CONFIG += qt-components
